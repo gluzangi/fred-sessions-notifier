@@ -14,7 +14,7 @@
       <div class="jumbotron">
         <h1>FRED SESSIONS</h1>
         <p class="lead">Session Availability Email Notification Tool</p>
-        <p><a class="btn btn-lg btn-success" href="/notifications" role="button">Email Sessions</a></p>
+        <p><a class="btn btn-lg btn-success" href="/notifications" role="button">Email ME Sessions</a></p>
       </div>
 
       <div class="row marketing">
